@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "Software Engineer",
+      "company": "Amazon",
+      "location": "Mumbai",
+      "type": "Full-time",
+      "description": "Develop and maintain software solutions.\nCollaborate with cross-functional teams.\nParticipate in code reviews.",
+      "companyType": "Tech",
+      "postedDate": "2024-07-27T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "title": "Product Manager",
+      "company": "Google",
+      "location": "Delhi",
+      "type": "Part-time",
+      "description": "Manage product lifecycle from ideation to launch.\nConduct market research.\nDefine product vision and strategy.",
+      "companyType": "Tech",
+      "postedDate": "2024-07-30T00:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Remote",
+      "type": "Contract",
+      "description": "Analyze data and build predictive models.\nDevelop data pipelines.\nPresent insights to stakeholders.",
+      "companyType": "Tech",
+      "postedDate": "2024-07-28T00:00:00.000Z"
+    },
+    {
+        "id": 4,
+        "title": "Full Stack Software Engineer",
+        "company": "Amazon",
+        "location": "Pune",
+        "type": "Full-time",
+        "description": "Develop and maintain software solutions.\nCollaborate with cross-functional teams.\nParticipate in code reviews.",
+        "companyType": "Tech",
+        "postedDate": "2024-07-27T00:00:00.000Z"
+      },
+      {
+        "id": 5,
+        "title": "Data Analyst",
+        "company": "Google",
+        "location": "Noida",
+        "type": "Part-time",
+        "description": "Manage product lifecycle from ideation to launch.\nConduct market research.\nDefine product vision and strategy.",
+        "companyType": "Tech",
+        "postedDate": "2024-07-30T00:00:00.000Z"
+      },
+      {
+        "id": 6,
+        "title": "MLOps",
+        "company": "Microsoft",
+        "location": "Hyderabad",
+        "type": "Contract",
+        "description": "Analyze data and build predictive models.\nDevelop data pipelines.\nPresent insights to stakeholders.",
+        "companyType": "Tech",
+        "postedDate": "2024-07-28T00:00:00.000Z"
+      },
+      {
+        "id": 7,
+        "title": "DevOps Engineer",
+        "company": "Amazon",
+        "location": "Gurgaon",
+        "type": "Full-time",
+        "description": "Develop and maintain software solutions.\nCollaborate with cross-functional teams.\nParticipate in code reviews.",
+        "companyType": "Tech",
+        "postedDate": "2024-07-27T00:00:00.000Z"
+      },
+      {
+        "id": 8,
+        "title": "Mern Stack Developer",
+        "company": "Google",
+        "location": "Lucknow",
+        "type": "Part-time",
+        "description": "Manage product lifecycle from ideation to launch.\nConduct market research.\nDefine product vision and strategy.",
+        "companyType": "Tech",
+        "postedDate": "2024-07-30T00:00:00.000Z"
+      },
+      {
+        "id": 9,
+        "title": "Busniness Development Executive",
+        "company": "Microsoft",
+        "location": "Chennai",
+        "type": "Contract",
+        "description": "Analyze data and build predictive models.\nDevelop data pipelines.\nPresent insights to stakeholders.",
+        "companyType": "Tech",
+        "postedDate": "2024-07-28T00:00:00.000Z"
+      }
+  ]
+  
